@@ -19,4 +19,4 @@
 
 [twitter]: https://twitter.com/MonalWanjari
 [instagram]: https://instagram.com/wanjarimonal
-[linkedin]: https://linkedin.com/in/wanjarimonal
+[linkedin]: https://www.linkedin.com/in/monal-w-b68120126/
